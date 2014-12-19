@@ -1,0 +1,6 @@
+[submodule "roar"]
+	path = roar
+	url = git@github.com:apotonick/roar.git
+[submodule "oat"]
+	path = oat
+	url = git@github.com:ismasan/oat.git

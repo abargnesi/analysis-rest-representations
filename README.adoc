@@ -1,0 +1,6 @@
+= Analysis of REST representation libraries
+
+A look at the capabilities and performance of these libraries:
+
+- roar
+- oat
