@@ -4,3 +4,6 @@
 [submodule "oat"]
 	path = oat
 	url = git@github.com:ismasan/oat.git
+[submodule "yaks"]
+	path = yaks
+	url = git@github.com:plexus/yaks.git

@@ -4,3 +4,6 @@ A look at the capabilities and performance of these libraries:
 
 - roar
 - oat
+- yaks
+
+Representers, decorators, serializers, and mappers...oh my!
